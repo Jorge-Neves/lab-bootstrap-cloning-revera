@@ -1,0 +1,134 @@
+html {
+    font: size 10px;
+}
+/* tags styles*/
+nav {
+    height: 8rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    margin: 1rem;
+}
+
+/* classes styles*/
+.carousel-control-prev {
+    height: 100px;
+    width: 50px;
+    margin-top: 375px;
+    background-color: #f4473a;
+    
+}
+
+.carousel-control-next {
+    height: 100px;
+    width: 50px;
+    margin-top: 375px;
+    background-color: #f4473a;
+    
+}
+
+
+.grey {
+    filter: grayscale(100%);
+}
+
+.site-logo {
+    padding-top: 30px;
+    padding-left: 50px;
+    box-sizing: border-box;
+
+}
+
+
+/* Id styles*/
+#redRow {
+    padding: 2rem 0rem;
+    background: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+    display: flex;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    color: #fff;
+    text-align: center;
+}
+
+#projectRow {
+    text-align: center;
+}
+
+#articleRow {
+    text-align: left;
+}
+
+#redBoxes {
+   
+}
+
+
+
+#redBoxelementsAllingn {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-background {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  opacity: 75%;
+}
+
+.footer-class {
+    color: white;
+    background-color: rgb(37, 37, 37);
+    text-align: left;
+    padding-top;: 15%;
+    padding-left: 8%;
+    padding-bottom: 120px; 
+    padding-right: 8%;
+    border-top: 5px solid #f4473a;
+}
+
+.final-footer {
+    color: white;
+    background-color: rgb(27, 27, 27);
+    text-align: left;
+    padding-top;: 2%;
+    padding-left: 8%;
+    padding-bottom: 120px; 
+    padding-right: 8%;
+    
+}
+
+#redPlease {
+    color: #f96b61;
+}
+
+#lightGreyPlease {
+    color:rgb(167, 167, 167);
+}
+
+.circleBorder {
+        border-radius: 10px;
+        border: 3px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
